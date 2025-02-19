@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananikon87" alt="ananikon87" /></a> </p>
 
-- 🔭 I’m currently working on **Amyloid Prediction Model**
+- 🔭 I’m currently working on an **Amyloidosis ML Prediction Model**
 
-- 🌱 I’m currently learning **R Programming Language**
+- 🌱 I’m also creating a complex and fun **Choose Your Own Adventure Game**
 
 - I'm looking to collaborate on **Machine Learning and AI Projects**
 
-- I'm currently improving upon **Choose Your Own Adventure Game**
+- I'm currently improving upon my **R Programming Language Skills**
 
 - 📫 How to reach me **ananikon87@gmail.com**
 

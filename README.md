@@ -13,7 +13,7 @@
 
 - I'm currently improving upon **Choose Your Own Adventure Game**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Ananikon87/Code_Projects](https://github.com/Ananikon87/Code_Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Ananikon87/Code_Projects](https://github.com/Ananikon87/Code_Projects)
 
 - 📫 How to reach me **ananikon87@gmail.com**
 

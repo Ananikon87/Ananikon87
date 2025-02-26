@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anani Konuwa</h1>
-<h3 align="center">A passionate Python programmer and aspiring Data Scientist</h3>
+<h3 align="center">A Data Scientist specializing in machine learning and predictive modeling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananikon87&label=Profile%20views&color=0e75b6&style=flat" alt="ananikon87" /> </p>
 
